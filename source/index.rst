@@ -10,8 +10,10 @@
    :maxdepth: 2
    :caption: Contents:
 
-   reports
-
+   about_pycon_kyushu_2018
+   keynote
+   plans
+   venue
 
 Indices and tables
 ==================
