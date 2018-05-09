@@ -12,6 +12,7 @@
 
    about_pycon_kyushu_2018
    keynote
+   talks
    plans
    venue
 
