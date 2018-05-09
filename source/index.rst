@@ -15,6 +15,7 @@
    talks
    plans
    venue
+   event_summary
 
 Indices and tables
 ==================
