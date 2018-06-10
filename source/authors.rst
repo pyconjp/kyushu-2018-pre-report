@@ -24,3 +24,13 @@
 | PyCon Kyushu 2018実行員で、`PyFukuoka <https://fukuoka-python.connpass.com/>`_ というPythonのコミュニティを運営している。
 | 元消防士エンジニア。SNSでは `tsurubee <https://twitter.com/tsurubee3>`_ （つるべー）という名前で活動している。
 | `GMOペパボ株式会社 <https://pepabo.com/>`_ インフラエンジニア
+
+
+.. figure:: img/masuda.jpg
+   :alt: 益田 祐輔 (Yusuke Masuda)
+
+| **益田 祐輔 (ますだ ゆうすけ)**
+| **Yusuke Masuda**
+| PyCon Kyushu 2018実行員。バックエンドエンジニア。鶏の唐揚げLOVE。
+| 最近は育児をしつつ、面白いサービスを生み出そうと日々奮闘中。
+| WEB上では `massyuu <https://twitter.com/mass_ssn>`_ や「唐揚げエンジニャー」などと名乗っている。
