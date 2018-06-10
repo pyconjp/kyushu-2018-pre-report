@@ -13,3 +13,13 @@
 | `Vuzz Inc. <http://vuzz.com>`_ 取締役CTO
 | `株式会社ナチュラルコーヒー <http://natural.coffee>`_ 代表取締役
 | `学校法人北部学園ほくぶ幼稚園 <http://hokugaku.com>`_ 理事長
+
+
+.. figure:: img/tsuruta.jpg
+   :alt: 鶴田 博文 (Hirofumi Tsuruta)
+
+| **鶴田 博文 (鶴田 博文)**
+| **Hirofumi Tsuruta**
+| PyCon Kyushu 2018実行員で、`PyFukuoka<https://fukuoka-python.connpass.com/>`_というPythonのコミュニティを運営している。
+| 元消防士エンジニア。SNSでは`tsurubee（つるべー）<https://twitter.com/tsurubee3>`_という名前で活動している。
+| `GMOペパボ株式会社 <https://pepabo.com/>`_ インフラエンジニア
