@@ -16,6 +16,7 @@
    plans
    venue
    event_summary
+   authors
 
 Indices and tables
 ==================
