@@ -27,10 +27,9 @@
 
 
 .. figure:: img/masuda.jpg
-   :alt: 益田 祐輔 (Yusuke Masuda)
+   :alt: massyuu
 
-| **益田 祐輔 (ますだ ゆうすけ)**
-| **Yusuke Masuda**
+| **massyuu (マシュー)**
 | PyCon Kyushu 2018実行員。バックエンドエンジニア。鶏の唐揚げLOVE。
 | 最近は育児をしつつ、面白いサービスを生み出そうと日々奮闘中。
 | WEB上では `massyuu <https://twitter.com/mass_ssn>`_ や「唐揚げエンジニャー」などと名乗っている。
