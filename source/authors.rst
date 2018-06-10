@@ -17,9 +17,10 @@
 
 .. figure:: img/tsuruta.jpg
    :alt: 鶴田 博文 (Hirofumi Tsuruta)
+   :scale: 40%
 
-| **鶴田 博文 (鶴田 博文)**
+| **鶴田 博文 (つるた ひろふみ)**
 | **Hirofumi Tsuruta**
 | PyCon Kyushu 2018実行員で、`PyFukuoka <https://fukuoka-python.connpass.com/>`_ というPythonのコミュニティを運営している。
-| 元消防士エンジニア。SNSでは`tsurubee（つるべー） <https://twitter.com/tsurubee3>`_ という名前で活動している。
+| 元消防士エンジニア。SNSでは `tsurubee <https://twitter.com/tsurubee3>`_ （つるべー）という名前で活動している。
 | `GMOペパボ株式会社 <https://pepabo.com/>`_ インフラエンジニア
