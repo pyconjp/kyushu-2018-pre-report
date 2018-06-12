@@ -33,7 +33,7 @@ Pythonというプログラミング言語の多様性を感じます。
 これからのPythonを盛り上げるためにも是非ご検討下さい。
 
 
-以下、予定されているトーク内容をご紹介します（1件はタイトル調整中）。
+以下、予定されているトーク内容をご紹介します。
 実に面白そうなタイトルが並んでいます。
 
 * Pythonによる競馬データ分析入門
@@ -49,6 +49,7 @@ Pythonというプログラミング言語の多様性を感じます。
 * Open3DでSLAM入門
 * Take advantage of C++ from Python
 * Artisanal Async Adventures
+* Reproducible Data science using Terraform
 
 
 なお、企画係のmassyuuさんが個人的に注目しているのは、Python開発の定番となっているPyCharmのトークです。
